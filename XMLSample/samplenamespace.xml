@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<note>
+    <m:para xmlns:m="www.google.com">
+        <m:subheading>this is a paragraph</m:subheading>
+    </m:para>
+    <n:para xmlns:n="www.youtube.com">
+        <n:subheading>this is a paragraph</n:subheading>
+    </n:para>
+</note>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE notes [
+    <!ELEMENT notes (note)>
+    <!ELEMENT note (to,from,heading,body)>
+    <!ELEMENT to (#PCDATA)>
+    <!ELEMENT from (#PCDATA)>
+    <!ELEMENT heading (#PCDATA)>
+    <!ELEMENT body (#PCDATA)>
+]>
+<notes>
+    <note>
+        <to id="dsf">Raj</to>
+        <from>Sam</from>
+        <heading>Subject:</heading>
+        <body>Meet</body>
+    </note>
+    <note>
+        <to>Raju</to>
+        <from>Somu</from>
+        <heading>Sub:</heading>
+        <body>Meet at 8pm</body>
+    </note>
+</notes>
